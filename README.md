@@ -1,6 +1,6 @@
 # Technothorn-Empowered-by-innovation
 🙋‍♀️Hello there, <br>
-This repository is an initiative for smart personal travelling by Team Technothorn. This presents not only a well designed aerodynamics structure but an ingenious integration of cool and modern AI features. A perfect blend! <br>
+This repository is an initiative for smart personal travelling by Team Technothorn. This presents not only a well designed aerodynamics structure but an ingenious integration of cool and modern AI features. A perfect blend, right! <br>
 Here are some pointers for the product; SAR2. <br><br>
 
 🛩️ Ease of Travel.<br>
