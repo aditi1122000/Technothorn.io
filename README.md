@@ -1,7 +1,7 @@
 # Technothorn-Empowered-by-innovation
 🙋‍♀️Hello there, <br>
 This repository is an initiative for smart personal travelling by Team Technothorn. This presents not only a well designed aerodynamics structure but an ingenious integration of cool and modern AI features. A perfect blend, right! <br>
-Here are some pointers for the product; SAR2. <br><br>
+Here are some key pointers of the product; SAR2. <br><br>
 
 🛩️ Ease of Travel.<br>
 🛩️ Embedded AI features; JARVIS/FRIDAY AI mechanism, GPS Tracker system, Shortest route finder, Real-time object detection setup and much more.<br>
